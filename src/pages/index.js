@@ -94,7 +94,7 @@ export default function Home() {
           <p>
             The source code is licensed
             <a href="http://opensource.org/licenses/mit-license.php"> under MIT</a> and you can find it at
-            <a href="https://github.com/json-patch-builder-online/"> GitHub</a>
+            <a href="https://github.com/tobernguyen/yaml-patch-generator"> GitHub</a>
           </p>
         </div>
       </div>
